@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Consultancy/static/css/main.e6c13ad2.css",
+    "main.js": "/Consultancy/static/js/main.3536bb79.js",
+    "index.html": "/Consultancy/index.html",
+    "main.e6c13ad2.css.map": "/Consultancy/static/css/main.e6c13ad2.css.map",
+    "main.3536bb79.js.map": "/Consultancy/static/js/main.3536bb79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3536bb79.js"
+  ]
+}
