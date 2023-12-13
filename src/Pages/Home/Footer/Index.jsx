@@ -26,12 +26,12 @@ const Footer = () => {
               <Grid item md={3} color={'white'} fontWeight={'lighter'} pt={4}>
                 <Typography fontSize={{ md: '1.4em', sm: '1em', xs: '1em' }}>MENU</Typography>
                 <List>
-                  <ListItem><Link href="/about" style={linkStyle}>About</Link></ListItem>
-                  <ListItem><Link href="#" style={linkStyle}>Projects</Link></ListItem>
-                  <ListItem><Link href="#" style={linkStyle}>Services</Link></ListItem>
-                  <ListItem><Link href="#" style={linkStyle}>Plane</Link></ListItem>
-                  <ListItem><Link href="#" style={linkStyle}>Tools</Link></ListItem>
-                  <ListItem><Link href="#" style={linkStyle}>Contact</Link></ListItem>
+                  <ListItem><Link to={"/about" }style={linkStyle}>About</Link></ListItem>
+                  <ListItem><Link to={"#"} style={linkStyle}>Projects</Link></ListItem>
+                  <ListItem><Link to={"#"} style={linkStyle}>Services</Link></ListItem>
+                  <ListItem><Link to={"#"} style={linkStyle}>Plane</Link></ListItem>
+                  <ListItem><Link to={"#"} style={linkStyle}>Tools</Link></ListItem>
+                  <ListItem><Link to={"#"} style={linkStyle}>Contact</Link></ListItem>
                 </List>
               </Grid>
               <Grid item md={3} color={'white'} fontWeight={'lighter'} pt={4} textAlign={'center'}>
