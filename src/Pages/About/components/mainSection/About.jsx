@@ -1,5 +1,5 @@
-import { Box, Container, Grid, Typography } from '@mui/material'
 import React from 'react'
+import { Container, Grid, Typography } from '@mui/material'
 
 const MainSection = () => {
     return (
